@@ -11,7 +11,7 @@ url: https://github.com/ysj0911/ysj0911.github.io # the base hostname & protocol
 permalink: /:year-:month/:title
 timezone: GMT+1
 
-favicon: /assets/img/favicon.ico
+favicon: /assets/img/cat_404.jpg
 
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
